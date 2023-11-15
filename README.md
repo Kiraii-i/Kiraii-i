@@ -13,13 +13,6 @@
 
 <br />
 
-### My Discord account:
-- `Kiraii#9005`
-- [Discord server](https://discord.gg/AbFdsj7Se7)
----
-
-<br />
-
 <h3 align="left">Languages and Tools:</h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -39,7 +32,7 @@
 
 <!--   Stats -->
 ### GitHub Stats:
-![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=iKiraii&theme=nord&show_icons=true&count_private=true)
+![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=Kiraii-i&theme=nord&show_icons=true&count_private=true)
   
 
  <br> 
@@ -53,7 +46,7 @@
 </div>
     
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/iKiraii/count.svg" />  
+  <img src="https://profile-counter.glitch.me/Kiraii-i/count.svg" />  
 </p>
    
 ---
