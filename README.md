@@ -47,10 +47,8 @@
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
-    
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/Kiraii-i/count.svg" />  
-</p>
+
+ [![](https://visitcount.itsvg.in/api?id=kiraii-i&icon=2&color=12)](https://visitcount.itsvg.in)
    
 ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
