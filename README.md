@@ -32,8 +32,11 @@
 
 <!--   Stats -->
 ### GitHub Stats:
-![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=Kiraii-i&theme=nord&show_icons=true&count_private=true)
-  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Kiraii-i&theme=noctis_minimus&show_icons=true&count_private=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kiraii-i&theme=noctis_minimus)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiraii-i&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
  <br> 
  
