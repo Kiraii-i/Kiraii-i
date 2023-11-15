@@ -38,17 +38,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiraii-i&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
- <br> 
- 
- <hr>
- 
- <br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
+---
  [![](https://visitcount.itsvg.in/api?id=kiraii-i&icon=2&color=12)](https://visitcount.itsvg.in)
    
----
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
