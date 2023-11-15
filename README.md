@@ -1,12 +1,9 @@
 ## Hello, my name is Eyad `AKA` Kiraii <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%235DD090&size=30&duration=3000&center=true&lines=there+is+nothing+here+%E2%9C%A8;Check+out+dev.kiraiii.repl.co)](https://dev.kiraiii.repl.co)
-- I am solo game developer
-- I have dream to build programming world
-- I takes about programming, football and anime on my twitter some times
-- [My Twitter account]()
+- <//>
 ---
 ### 🌐 Social:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kiraii_i) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kiraiii.002@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kiraii_i) 
 
 ---
 ## 💻 Languages and Tools:
