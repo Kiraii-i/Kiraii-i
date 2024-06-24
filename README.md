@@ -22,5 +22,8 @@
 
 ---
  [![](https://visitcount.itsvg.in/api?id=kiraii-i&icon=2&color=12)](https://visitcount.itsvg.in)
-   
+ <a href="https://github.com/kiraii_i?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kiraii_i?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/kiraii_i?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kiraii_i?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
